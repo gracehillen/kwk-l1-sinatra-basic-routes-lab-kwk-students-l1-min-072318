@@ -8,13 +8,13 @@ end
   get '/name' do
   "My name is Grace"
 end
-end
+
   get '/hometown' do
   "My hometown is Minnetonka"
 end
-end
+
   get '/favorite-song' do
   "My favorite song is God's Plan"
 end
-end
+
 end
